@@ -1,4 +1,3 @@
-```
 # NBA Player Stats Scraper
 
 Ce programme permet de collecter les statistiques des joueurs de la NBA pour chaque saison dans une plage d'années spécifiée par l'utilisateur. Il extrait les données du site web de Basketball Reference, puis calcule et sauvegarde les moyennes annuelles des différentes statistiques des joueurs dans des fichiers Excel. De plus, il génère des graphiques montrant l'évolution de ces moyennes au fil du temps.
@@ -65,5 +64,3 @@ Entrez l'année de fin : 2015
 ## Auteur
 
 Ce programme a été créé par Tom Gaillard.
-
-```
