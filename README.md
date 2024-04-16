@@ -63,4 +63,4 @@ Entrez l'année de fin : 2015
 
 ## Auteur
 
-Ce programme a été créé par https://github.com/Skyneur
+Ce programme a été créé par [Skyneur](https://github.com/Skyneur)
